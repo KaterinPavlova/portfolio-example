@@ -3,7 +3,7 @@ title: Резюме
 order: 1.5
 ---
 
-<image src="./resume-2.png" crop="0,0,100,100" scale="34" width="1024px" height="1024px" float="left"/>
+<image src="./resume-2.png" crop="0,0,100,100" scale="36" width="1024px" height="1024px" float="left"/>
 
 # Анна Кравченко -- Technical Writer
 
