@@ -11,13 +11,13 @@ title: 🔔 Мастер-класс
 
    -  Для просмотра: <https://kpavlovaa.cloud.gram.ax/portfolio-example/resume>
 
-   -  Для копирования MD: [https://app.gram.ax/github.com/KaterinPavlova/portfolio-example/master/-](https://app.gram.ax/github.com/KaterinPavlova/portfolio-example/master/-)
+   -  Для копирования: [https://app.gram.ax/github.com/KaterinPavlova/portfolio-example/master/-](https://app.gram.ax/github.com/KaterinPavlova/portfolio-example/master/-)
 
 -  Репозиторий с сайтом-визиткой: <https://github.com/KaterinPavlova/portfolio-example>
 
 </note>
 
-На мастер-классе вместе сделаем сайт-визитку в Gramax. Если отстали -- разверните блок «Инструкция». Если что-то не работает -- «Траблшутинг».
+На мастер-классе вместе сделаем сайт-визитку в Gramax. Если отстали -- смотрите «Инструкция». Если что-то не работает -- «Траблшутинг».
 
 ## Инструкция
 
